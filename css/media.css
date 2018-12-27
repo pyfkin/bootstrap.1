@@ -12,22 +12,43 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-	
-
-
-
+        nav{
+            height: 60px;
+            line-height: 60px;
+            background-color: #a1e;
+            .top_line{
+                display: none;
+                
+            }
+        }
 
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-
+        nav{
+            height: 60px;
+            line-height: 60px;
+            background-color: #a1e;
+            .top_line{
+                display: none;
+                
+            }
+        }
 
 }
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
-
+        nav{
+            height: 60px;
+            line-height: 60px;
+            background-color: #a1e;
+            .top_line{
+                display: none;
+                
+            }
+        }
 
 
 }
